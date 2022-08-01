@@ -1,4 +1,4 @@
-# RiggedInteractions
+# Rigged XR Interactions
 ## VR Interaction System for Unity's XR Interaction Toolkit
 
 ### Installation:
