@@ -24,3 +24,11 @@ Rigged Grab Interactable - Put this onto any object you want to grab, some impor
 - Rigged Grab Type: 
   - Offset Grab - will use the hand's position as the grab point
   - Standard - the standard grab interactable usage, will snap to the attach point of the object
+
+
+### Planned Features: 
+- Hand Poser
+- Multiple Grab Points
+- 2 Hand Grab
+- Physics grab (the code is in the project but very barebones and no implemented anywhere)
+- Rigidbody Player Controller
