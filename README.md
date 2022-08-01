@@ -15,6 +15,9 @@
 - Drag the Rigged Player v2 prefab into your scene
 - Click Play and hope for the best!
 
+### Installation Notes:
+- The materials in the project were made in URP, however they are just basic lit materials so simply switching the shader or creating new materials should work fine! 
+
 ### Usage: 
 
 Rigged Player v2 - The core prefab that holds the player and hands
